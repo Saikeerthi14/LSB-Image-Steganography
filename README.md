@@ -145,6 +145,7 @@ To specify a custom output file name:
 The original BMP image used for encoding.
 
 
+<img width="366" height="274" alt="original_image" src="https://github.com/user-attachments/assets/70b59c6a-d299-43e1-8ae7-a239bc94da64" />
 
 
 
@@ -163,6 +164,7 @@ Successful encoding of secret data into the BMP image.
 The generated BMP image containing hidden information.
 
 
+<img width="363" height="290" alt="stego_image" src="https://github.com/user-attachments/assets/b036017a-9b44-4796-bbf4-fe886fc9f39a" />
 
 
 
@@ -171,11 +173,16 @@ The generated BMP image containing hidden information.
 Successful extraction of the hidden information.
 
 
+<img width="452" height="224" alt="decoding_output" src="https://github.com/user-attachments/assets/1787a954-b12a-4d78-89d7-9663d35348d5" />
+
+
+
 
 ### Recovered Secret Data
 
 The extracted content is saved into a text file.
 
+<img width="174" height="45" alt="recovered_secret_text" src="https://github.com/user-attachments/assets/9a1ea1b1-4529-492a-9c7a-4acd95a68e53" />
 
 
 ## 🎯 Learning Outcomes
