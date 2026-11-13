@@ -144,7 +144,7 @@ To specify a custom output file name:
 
 The original BMP image used for encoding.
 
-<img width="366" height="274" alt="original_image" src="https://github.com/user-attachments/assets/f5fefa43-69e3-4771-bdb0-5add88805205" />
+
 
 
 
@@ -153,11 +153,16 @@ The original BMP image used for encoding.
 
 Successful encoding of secret data into the BMP image.
 
+<img width="526" height="310" alt="encoding_output" src="https://github.com/user-attachments/assets/ce93e748-4a14-43cf-962c-539f45c69340" />
+
+
 
 
 ### Stego Image
 
 The generated BMP image containing hidden information.
+
+
 
 
 
